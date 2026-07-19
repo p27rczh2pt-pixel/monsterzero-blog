@@ -1,6 +1,6 @@
 +++
 date = '2026-07-19T15:56:51-05:00'
-draft = true
+draft = false
 title = 'Kalibrate Gas Station Pricing'
 categories = ["pricing"]
 +++

@@ -24,20 +24,10 @@ comments = false
 Title = "Monster Zero"
 Content = "Straight reporting on how AI data centers, algorithmic pricing, and quiet privacy rollbacks are reshaping daily life."
 [[menu.main]]
-identifier = 'datacenters'
-name = 'AI Data Centers'
-url = '/categories/data-centers/'
-weight = 10
-[[menu.main]]
 identifier = 'pricing'
 name = 'Algorithmic Pricing'
 url = '/categories/pricing/'
 weight = 20
-[[menu.main]]
-identifier = 'privacy'
-name = 'AI in Daily Life'
-url = '/categories/privacy/'
-weight = 30
 [[menu.main]]
 identifier = 'archive'
 name = 'Archive'

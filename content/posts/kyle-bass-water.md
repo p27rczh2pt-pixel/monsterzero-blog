@@ -1,5 +1,5 @@
 +++
-date = '2026-07-20T16:00:00-05:00'
+date = '2026-07-20T10:00:00-05:00'
 draft = false
 title = 'A Dallas Investor Bought 11,000 Acres in East Texas. He Wants the Water Underneath It.'
 categories = ["water"]

@@ -33,6 +33,16 @@ The fight has moved into federal court. The Neches and Trinity Valleys Groundwat
 
 That's the legal question this case is actually going to answer: whether owning land above an aquifer gives you the right to pump out water at a scale that can affect every other well in the region, regardless of what your neighbors or local government think about it.
 
+## Does this water end up feeding San Antonio's data centers?
+
+It's worth separating what Bass has actually said from what looks like an obvious next step. Asked who would buy the water, Bass hasn't named a buyer. He's said it could go "anywhere south of Waco and north of Dallas-Fort Worth," and at other points said he doesn't have purchasers lined up yet. So there's no on-record statement tying this specific project to San Antonio.
+
+What is confirmed is the pattern this project would be joining. San Antonio already imports roughly 48,000 to 50,000 acre-feet of water a year, close to 16 billion gallons, through the 142-mile Vista Ridge pipeline, which pulls from the same general Carrizo-Wilcox aquifer system in Burleson County, west of where Bass is now drilling. That pipeline has been running since 2020, and landowners near it have reported their own wells dropping as a result. It has nothing to do with Bass. It shows the exact playbook already exists and is already working: identify rural East Texas groundwater, pipe it to a growing city, absorb the legal fights from the people who lived on top of it first.
+
+And San Antonio's demand for water is climbing for a reason directly tied to this blog's earlier post on data centers. The city now has more than 20 data centers operating, with more in the pipeline, and its own utility officials have told city council the growth is straining both water and power supply. San Antonio Water System has pushed data centers toward recycled water use, up from 48 percent in 2023 to 75 percent in 2025, specifically because the strain is real enough to require it.
+
+So the honest version of the connection is this: Bass hasn't said his water is headed to San Antonio, and nobody should report that as settled fact. But San Antonio is precisely the kind of fast-growing, increasingly water-stressed, data-center-heavy buyer that a project like this would be built to serve, and the city has already proven, through Vista Ridge, that it will import East Texas groundwater at exactly this scale when the demand is there. If Bass's water doesn't end up in San Antonio, it will likely end up somewhere doing the same job for a similar reason.
+
 ## Why this matters beyond East Texas
 
 This is the same water story running underneath the AI data center boom covered on this blog before, just with a different buyer. Texas water is being treated as a commodity that can be identified, purchased, and moved to wherever the highest-value use happens to be, whether that's a hyperscale server farm or a fast-growing suburb west of Fort Worth. The person or company doing the buying usually has more legal and technical resources than the rural community sitting on top of the resource. And in both cases, the people most affected tend to find out from a legal notice in the local paper, not from anyone knocking on their door first.

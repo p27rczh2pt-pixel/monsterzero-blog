@@ -29,6 +29,21 @@ name = 'Algorithmic Pricing'
 url = '/categories/pricing/'
 weight = 20
 [[menu.main]]
+identifier = 'surveillance'
+name = 'Surveillance'
+url = '/categories/surveillance/'
+weight = 25
+[[menu.main]]
+identifier = 'data-centers'
+name = 'Data Centers'
+url = '/categories/data-centers/'
+weight = 30
+[[menu.main]]
+identifier = 'water'
+name = 'Water'
+url = '/categories/water/'
+weight = 35
+[[menu.main]]
 identifier = 'archive'
 name = 'Archive'
 url = '/archives/'

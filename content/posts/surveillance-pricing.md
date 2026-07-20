@@ -1,6 +1,6 @@
 +++
 date = '2026-07-20T11:00:00-05:00'
-draft = true
+draft = false
 title = 'Your Grocery Store Is Watching You Shop, Then Charging You For It'
 categories = ["pricing"]
 +++

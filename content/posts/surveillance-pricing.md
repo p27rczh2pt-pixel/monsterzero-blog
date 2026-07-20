@@ -1,6 +1,6 @@
 +++
 date = '2026-07-20T11:00:00-05:00'
-draft = false
+draft = true
 title = 'Your Grocery Store Is Watching You Shop, Then Charging You For It'
 categories = ["pricing"]
 +++
@@ -49,4 +49,20 @@ Texas has none of this. No disclosure requirement, no ban, no active investigati
 
 ## What to watch for at your own grocery store
 
-Look at whether your local store has switched to electronic shelf labels yet, and if it has, ask what data the store's app or loyalty card program collects on you. A loyalty card tied to your phone number or email is the easiest way for a retailer to link your in-store purchase history to your online behavior, which is exactly the kind of individual profile surveillance pricing runs on. Pay attention to whether the same item's price changes between visits with no sale or seasonal reason attached. Ask your store directly whether it uses demographic or facial-detection cameras at its digital displays, the way Kroger piloted, since that's the kind of program that tends to expand quietly unless customers push back on it early.
+Look at whether your local store has switched to electronic shelf labels yet, and if it has, ask what data the store's app or loyalty card program collects on you. A loyalty card tied to your phone number or email is the easiest way for a retailer to link your in-store purchase history to your online behavior, which is exactly the kind of individual profile surveillance pricing runs on. Pay attention to whether the same item's price changes between visits with no sale or seasonal reason attached.
+
+## What you can actually do about it
+
+Most of this tracking has a real, practical countermeasure once you know where it lives.
+
+Bluetooth beacons only work through a retailer's own app with Bluetooth turned on. Turn off Bluetooth before you walk in, or go into the app's permissions and turn off location and Bluetooth access specifically. You can keep the app for coupons without it broadcasting your position through the store.
+
+Loyalty cards and store apps tie your purchase history to your identity through your phone number or email. A physical card with no account attached, or a separate email used only for that store, breaks the link between what you buy and who you are.
+
+Cart trackers like the ones Walmart uses have no consumer-side opt-out, since the tracker sits on the cart, not on you. There's no setting to turn off. The only real defense is knowing it's happening.
+
+Shelf cameras that estimate age and gender, like Kroger's EDGE system, also have no individual opt-out. This is the layer where public pressure has actually worked before. Kroger backed off facial identification specifically after senators and customers pushed back on it directly. Complaints to a retailer's corporate line, and support for the state bills that require disclosure or ban the practice outright, are the tools that reach this part of the system.
+
+For general purchase-history profiling, paying with cash breaks the clearest version of that trail when it's practical to do so. Most states also give you some right to request the data a retailer holds on you, and in some cases to have it deleted, under laws like the CCPA in California. It's a manual request and it varies state to state, but it's a real right that goes unused mostly because people don't know it exists.
+
+None of this makes you invisible to a determined system. It does raise the cost of tracking you specifically, and it puts a little friction back into an arrangement that currently has none.

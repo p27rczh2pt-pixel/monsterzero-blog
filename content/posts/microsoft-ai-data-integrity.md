@@ -1,5 +1,5 @@
 +++
-date = '2026-07-27T09:00:00-05:00'
+date = '2026-07-31T09:00:00-05:00'
 draft = false
 title = "Microsoft Wants to Sell You Data Integrity. It Might Be Part of the Problem."
 categories = ["surveillance"]

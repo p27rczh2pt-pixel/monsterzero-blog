@@ -1,7 +1,7 @@
 +++
 date = '2026-07-31T09:00:00-05:00'
 draft = false
-title = "Flock Isn't Just Watching the Road Anymore. It's Taking to the Air."
+title = "The Cameras Were Just the Beginning: Flock's Drone Push"
 categories = ["surveillance"]
 +++
 Everything covered on this blog about Flock so far has been about fixed cameras, bolted to a pole, reading plates as cars drive past. That's a real privacy concern on its own. But Flock has spent the last two years building something that goes further than a stationary camera ever could: a fleet of autonomous drones that launch themselves, fly beyond where any human operator can see them, and follow whatever the system decides is worth following.

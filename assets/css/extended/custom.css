@@ -1,31 +1,22 @@
-/* Manifesto background text effect */
+/* Manifesto background text effect - tiled, covers full page */
 body {
   position: relative;
 }
 
 body::before {
-  content: "No single watcher runs this anymore. A thousand small ones do, each holding one slice of you, license plates, purchase history, browsing habits, location pings, sold and resold before you ever know they looked. Your car reports on you. Your doorbell reports on you. Your insurance rate moves on data you never agreed to hand over. A camera on a streetlight doesn't need a warrant to remember your face. A private company owns the record of everywhere you drove this year, and the company that owns it answers to shareholders, not to you. Nothing here required a conspiracy. It only required an incentive, and a public too busy to notice the terms of service. The record is already being built. The only real choice left is whether anyone's watching who's watching.";
+  content: "";
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  padding: 2rem;
-  font-family: monospace;
-  font-size: 0.85rem;
-  line-height: 1.6;
-  color: var(--primary, #333);
-  opacity: 0.04;
-  overflow: hidden;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='300' viewBox='0 0 500 300'%3E%3Ctext x='10' y='20' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3ENo single watcher runs this anymore.%3C/text%3E%3Ctext x='10' y='40' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3EA thousand small ones do, each holding%3C/text%3E%3Ctext x='10' y='60' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Eone slice of you. Your car reports on%3C/text%3E%3Ctext x='10' y='80' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Eyou. Your doorbell reports on you.%3C/text%3E%3Ctext x='10' y='100' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3EA camera on a streetlight doesn't need%3C/text%3E%3Ctext x='10' y='120' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Ea warrant to remember your face. The%3C/text%3E%3Ctext x='10' y='140' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Erecord is already being built. The%3C/text%3E%3Ctext x='10' y='160' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Eonly real choice left is whether%3C/text%3E%3Ctext x='10' y='180' font-family='monospace' font-size='11' fill='%23333' opacity='0.35'%3Eanyone's watching who's watching.%3C/text%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 500px 300px;
+  opacity: 0.11;
   z-index: -1;
   pointer-events: none;
   user-select: none;
-}
-
-/* Dark mode adjustment, so it stays faint on dark theme too */
-.dark body::before {
-  color: var(--primary, #eee);
-  opacity: 0.05;
 }
 
 /* Ensure actual content sits above the background layer */

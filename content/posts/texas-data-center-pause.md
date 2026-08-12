@@ -2,8 +2,8 @@
 title: "Texas Just Hit Pause on 1,800 Data Centers"
 date: 2026-08-12T15:43:00-05:00
 draft: false
-tags: ["data centers", "Texas", "ERCOT", "AI", "energy policy"]
-categories: ["AI Data Centers"]
+tags: ["Texas", "ERCOT", "AI", "energy policy"]
+categories: ["data-centers"]
 description: "Governor Abbott ordered a statewide audit of every data center in ERCOT's interconnection queue, freezing new grid connections for 1,800 projects and 474 gigawatts of power requests."
 ---
 

@@ -1,5 +1,5 @@
 +++
-date = '2026-07-20T09:00:00-05:00'
+date = '2026-07-20T08:00:00-05:00'
 draft = false
 title = 'Start Here: Protecting Yourself From the Tracking You Cannot See'
 categories = ["start-here"]

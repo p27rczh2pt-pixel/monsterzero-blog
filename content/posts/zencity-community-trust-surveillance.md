@@ -2,6 +2,7 @@
 title: "Zencity: Surveillance Wearing a Customer Service Badge"
 date: 2026-08-16T09:00:00-05:00
 draft: false
+categories: ["surveillance"]
 ---
 
 If you've followed the Flock Safety license plate reader posts on this blog, you already know the pattern: a private company sells local government a tool framed as public safety or civic improvement, the contract gets signed with little or no public vote, and residents find out what they're actually paying for only after someone starts asking questions. Zencity follows the same playbook, but it's dressed up differently. Instead of cameras on the roadway, it's software that reads what you post online.

@@ -49,6 +49,11 @@ name = 'Insurance'
 url = '/categories/insurance/'
 weight = 38
 [[menu.main]]
+identifier = 'commentary'
+name = 'Commentary'
+url = '/categories/commentary/'
+weight = 39
+[[menu.main]]
 identifier = 'archive'
 name = 'Archive'
 url = '/archives/'

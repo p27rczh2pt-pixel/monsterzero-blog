@@ -11,7 +11,7 @@ I want to step away from the usual format of this blog for one post. No records 
 
 ## The pattern under the pattern
 
-If you've read this blog for any length of time, you've seen the shape by now. Flock cameras. Zencity scraping Nextdoor sentiment. Cell-site simulators bought with forfeiture money. Kyle Bass and a private equity firm trying to pull billions of gallons out of an aquifer an entire region depends on. Data centers justified as a national necessity while they draw down water and power with almost no local say in the matter.
+If you've read this blog for any length of time, you've seen the shape by now. Flock cameras. Zencity scraping social media sentiment. Cell-site simulators bought with forfeiture money. Kyle Bass and a private equity firm trying to pull billions of gallons out of an aquifer an entire region depends on. Data centers justified as a national necessity while they draw down water and power with almost no local say in the matter.
 
 I keep writing about these as separate stories because they arrive as separate stories, different vendors, different agencies, different counties. But they're not separate. They're the same mechanism wearing different clothes, and I think it's worth naming the mechanism directly instead of dancing around it story by story.
 
@@ -33,7 +33,7 @@ I don't have a clean answer to that. I don't think anyone building frontier AI r
 
 Watch what "we can't let China get there first" actually does in a conversation. It doesn't answer whether a data center's water use is reasonable. It doesn't answer whether the power draw should come from gas peaker plants. It converts a cost-benefit question into a loyalty question, and loyalty questions don't get debated, they get complied with. Ask a hard question about the pace of the buildout and you're not raising a valid concern anymore, you're the person who'd rather lose the race.
 
-I hear a version of this every time someone on Nextdoor tells me they don't mind being tracked because they've got nothing to hide. Or that questioning a camera network means I must want kids to get hurt. Neither of those is actually an argument. They're conversation-enders. They work by turning a policy question into a character question, so that defending yourself becomes the whole conversation instead of the tool itself ever having to justify what it does.
+I hear a version of this every time someone on social media tells me they don't mind being tracked because they've got nothing to hide. Or that questioning a camera network means I must want kids to get hurt. Neither of those is actually an argument. They're conversation-enders. They work by turning a policy question into a character question, so that defending yourself becomes the whole conversation instead of the tool itself ever having to justify what it does.
 
 Nobody who says "nothing to hide" would actually hand over their own location history and search logs with no warrant and no oversight, no audit trail after the fact, just full access. If they wouldn't accept that standard for themselves, it's not a principle. It's a script they're repeating because it makes them feel like the reasonable one in the room.
 

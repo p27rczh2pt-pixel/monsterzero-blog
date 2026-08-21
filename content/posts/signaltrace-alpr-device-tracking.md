@@ -2,7 +2,7 @@
 title: "Your License Plate Camera Is About to Start Tracking Your Phone Too"
 date: 2026-08-21T14:00:00-05:00
 draft: false
-tags: ["surveillance", "Leonardo", "SignalTrace", "ALPR", "privacy"]
+tags: ["Leonardo", "SignalTrace", "ALPR", "privacy"]
 categories: ["surveillance"]
 description: "A defense contractor is bolting Bluetooth, WiFi, and RFID tracking onto license plate cameras already installed across the country. Here's what SignalTrace actually does."
 ---
